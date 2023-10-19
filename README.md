@@ -1,1 +1,2 @@
 # Coffee-sales-project
+The Coffee Sales Analysis Dashboard, developed in Excel, provides a streamlined view of coffee sales data. It involves data collection, cleaning, and utilizes pivot charts to showcase key insights, such as sales trends, product performance, and customer demographics, in an intuitive and customizable dashboard. This project enhances data-driven decision-making, operational efficiency, and marketing strategies.
